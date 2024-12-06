@@ -1,0 +1,27 @@
+[
+  {
+    "image": "/images/wws1.png",
+    "item": "Rice"
+  },
+
+  {
+    "image": "/images/wws3.png",
+    "item": "Drinks"
+  },
+  {
+    "image": "/images/wws4.png",
+    "item": "Noodles"
+  },
+  {
+    "image": "/images/wws5.png",
+    "item": "Burger"
+  },
+  {
+    "image": "/images/wws6.png",
+    "item": "Shawarma"
+  },
+  {
+    "image": "/images/wws2.png",
+    "item": "Pizza"
+  }
+]

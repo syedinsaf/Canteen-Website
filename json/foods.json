@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "images": "/images/foods/f1.jpg",
+    "title": "Idli",
+    "price": "30"
+  },
+  {
+    "id": "02",
+    "images": "/images/foods/f2.jpeg",
+    "title": "dosa",
+    "price": "70"
+  },
+  {
+    "id": "03",
+    "images": "/images/foods/f3.jpg",
+    "title": "vada",
+    "price": "20"
+  },
+  {
+    "id": "04",
+    "images": "/images/foods/f4.jpg",
+    "title": "ice",
+    "price": "10"
+  },
+  {
+    "id": "05",
+    "images": "/images/foods/f5.jpg",
+    "title": "gobi",
+    "price": "30"
+  },
+  {
+    "id": "06",
+    "images": "/images/foods/f6.jpg",
+    "title": "biryani",
+    "price": "10"
+  },
+  {
+    "id": "07",
+    "images": "/images/foods/f7.jpg",
+    "title": "chicken",
+    "price": "30"
+  },
+  {
+    "id": "09",
+    "images": "/images/foods/f8.jpg",
+    "title": "North Meals",
+    "price": "50"
+  }
+]
